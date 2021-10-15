@@ -15,6 +15,26 @@ We are looking for feedback to improve Education Pathways and make it more usefu
 
 ## Setup Instructions
 
+### Notes for Setup on Windows  
+To run this repo, need to install python 3.8 and add it to your path.  
+
+Create the virtual environment and activate:   
+virtualenv venv  
+.\venv\Scripts\activate  
+
+Install flask and dependencies for repo:  
+pip install flask  
+pip install flask-script  
+pip install flask-bootstrap  
+pip install flask-moment  
+py -3.8 -m pip install -r .\requirements.txt  
+
+If any messages appear saying "WARNING: The script flask.exe is installed in '<location>' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.", add the location to your path.  
+
+Run the app:  
+py -3.8 -m flask run  
+
 ### With Docker
 
 
