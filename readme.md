@@ -6,6 +6,16 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 Screenshot of repo after clone and updated readme.  
 ![alt text](imgs/lab5_activity1.jpg)  
 
+## Activity 2 - 5  
+Screenshot of styling for home page and results page.  
+Home page:  
+![alt text](imgs/lab5_activity5_1.jpg)  
+
+Results page - form:  
+![alt text](imgs/lab5_activity5_2.jpg)  
+Results page - table:
+![alt text](imgs/lab5_activity5_3.jpg)  
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
