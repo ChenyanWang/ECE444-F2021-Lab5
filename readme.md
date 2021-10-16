@@ -16,6 +16,9 @@ Results page - form:
 Results page - table:
 ![alt text](imgs/lab5_activity5_3.jpg)  
 
+## Activity 6
+Compared to the old UI, the new UI is less cramped and looks much more modern. In terms of stylization, the new UI makes use of bootstrap and CSS styles to achieve a consistent colour theme and alignments for different elements. In particular, the border around the form allows for the user to focus their attention to what they need to fill to search for courses, while the old UI had a bunch of fillable boxes cramped together. This new UI enhances readability and usability of the platform.
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
